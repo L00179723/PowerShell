@@ -1,2 +1,2 @@
-git clone <repository_url>
-cd <repository_name>
+git clone <bugfix_script.py>
+cd <bugfix_script.py>
